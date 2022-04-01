@@ -135,7 +135,7 @@ header {
 }
 
 p {
-    color: var(--dark-purple-colour);
+    color: var(--light-purple-colour);
     padding: 30px;
     padding-top: 0;
     padding-bottom: 10px;
