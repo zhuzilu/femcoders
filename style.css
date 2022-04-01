@@ -119,6 +119,9 @@ header {
 .motivacion h1 {
     color: var(--dark-purple-colour);
 }
+.motivacion p {
+    color: var(--dark-purple-colour);
+}
 .container-glassmorphism {
     background: rgba( 255, 255, 255, 0.5 );
     box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
