@@ -149,21 +149,12 @@ section {
     padding-top: 200px;
 }
 
-.experiencia p {
-    color: var(--light-purple-colour);
-}
 
 .experiencia ul {
     padding-left: 50px;
     list-style: square;
 }
 
-.skills p {
-    color: var(--light-purple-colour);
-}
-.contacto p {
-    color: var(--light-purple-colour);
-}
 .social {
     padding: 40px;
     font-size: 80px;
